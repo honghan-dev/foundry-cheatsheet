@@ -25,3 +25,6 @@ forge coverage --fork-url <RPC_URL>
 Example:
 ![Screenshot 2024-05-08 at 1 01 00 PM](https://github.com/honghan-dev/foundry-cheatsheet/assets/52853446/3856390e-6849-4d60-ad94-e2234aa9e071)
 
+## Cast
+
+## Anvil
