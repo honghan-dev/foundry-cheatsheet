@@ -1,2 +1,7 @@
 # foundry-cheatsheet
-A cheatsheet for Foundry testing
+## Compile Contract
+```shell
+forge compile
+# or
+forge build
+```
