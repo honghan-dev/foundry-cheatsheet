@@ -1,4 +1,4 @@
-# foundry-cheatsheet
+# Foundry Cheatsheet for quick reference
 ## Forge
 1. Compile Contract
 ```shell
